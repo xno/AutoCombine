@@ -54,5 +54,7 @@
 		<text name="AC_AUTO_STEER"                                  text="Sterzo automatico"/>
 		<text name="AC_AUTO_STEER_ON"                               text="Sterzo automatico [on]"/>
 		<text name="AC_AUTO_STEER_OFF"                              text="Sterzo automatico [off]"/>
+		<text name="AC_COMBINE_PAUSE_ON"                            text="pausa [on]" />
+		<text name="AC_COMBINE_PAUSE_OFF"                           text="pausa [off]" />		
 	</texts>
 </l10n>
